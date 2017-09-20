@@ -1,6 +1,6 @@
 var but= document.getElementById('cou');
 
-  but.onclick = function () {
+  but.onclick= function () {
     
     var request = new XMLHttpRequest();
     
