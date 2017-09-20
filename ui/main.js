@@ -1,4 +1,4 @@
-var but= document.getElementById('counter');
+var but= document.getElementById('cou');
 
   but.onclick = function () {
     
